@@ -1,3 +1,5 @@
+[**中文**](./README_zh.md) | [**English**](./README.md)
+
 ## 貔貅(PiXiu): 基于中文金融知识图谱的指令微调模型
 Instruct-tuning Large Language Models with Chinese Financial Knowledge Graph
 
