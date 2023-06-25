@@ -2,7 +2,7 @@
 Instruct-tuning Large Language Models with Chinese Financial Knowledge Graph
 
 <p align="center" width="100%">
-<a ><img src="assets/pixiu.png" alt="PiXiu" style="width: 20%; min-width: 300px; display: block; margin: auto;"></a>
+<a ><img src="assets/pixiu.png" alt="PiXiu" style="width: 20%; min-width: 500px; display: block; margin: auto;"></a>
 </p>
 
 [![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)](https://github.com/tatsu-lab/stanford_alpaca/blob/main/LICENSE)
